@@ -6,7 +6,7 @@
                     
                     h1 {
                         font-family: "Origins", "Palatino", "Book Antiqua", serif;
-                        font-weight: normal;
+                        font-weight: bold;
                         font-size: 48pt;
                         margin-top: 24pt;
                         line-height: 120%;
@@ -25,4 +25,9 @@
                     
                     .intro {
                         text-align: center;
+                        font-style: italic;
+                    }
+                    
+                    p.intro:first-line {
+                        font-variant: small-caps;
                     }
