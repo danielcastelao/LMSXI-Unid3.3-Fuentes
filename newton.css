@@ -1,10 +1,28 @@
-body {
-    background-color: #fff;
-    color: #000;
-    margin-left: 1em;
-}
-
-p {
-    font-size: 14pt;
-    text-indent: 5em;
-}
+                    body {
+                        background-color: #fff;
+                        color: #000;
+                        margin-left: 1em;
+                    }
+                    
+                    h1 {
+                        font-family: "Origins", "Palatino", "Book Antiqua", serif;
+                        font-weight: normal;
+                        font-size: 48pt;
+                        margin-top: 24pt;
+                        line-height: 120%;
+                        margin-bottom: -24pt;
+                    }
+                    
+                    h1 span {
+                        text-decoration: line-through
+                    }
+                    
+                    p {
+                        font-size: 14pt;
+                        text-indent: 5em;
+                        text-align: justify;
+                    }
+                    
+                    .intro {
+                        text-align: center;
+                    }
