@@ -3,3 +3,8 @@ body {
     color: #000;
     margin-left: 1em;
 }
+
+p {
+    font-size: 14pt;
+    text-indent: 5em;
+}
