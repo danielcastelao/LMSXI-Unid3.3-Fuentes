@@ -22,11 +22,16 @@
                         font-size: 14pt;
                         text-indent: 5em;
                         text-align: justify;
+                        max-width: 25em;
+                        margin-left: 100px;
+                        margin-right: auto;
                     }
                     
                     .intro {
                         text-align: center;
                         font-style: italic;
+                        color: #666;
+                        text-indent: 0em;
                     }
                     
                     p.intro:first-line {
