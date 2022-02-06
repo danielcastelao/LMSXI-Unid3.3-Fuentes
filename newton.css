@@ -3,6 +3,8 @@
                         color: #000;
                         margin-left: 1em;
                         background-image: url("./images/isaac.png");
+                        background-repeat: no-repeat;
+                        background-attachment: fixed;
                     }
                     
                     h1 {
