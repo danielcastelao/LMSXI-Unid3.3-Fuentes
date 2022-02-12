@@ -39,9 +39,6 @@
                     }
                     
                     aside {
-                        background-image: url("./images/isaac.png");
-                        background-repeat: no-repeat;
-                        background-position: center top;
                         grid-row: 2;
                         margin: 15%;
                     }
